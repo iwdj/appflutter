@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "704894560046",
+    "firebase_url": "https://iwdesignjobs-es-default-rtdb.firebaseio.com",
+    "project_id": "iwdesignjobs-es",
+    "storage_bucket": "iwdesignjobs-es.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704894560046:android:383d91602aa915dfb43cbf",
+        "android_client_info": {
+          "package_name": "com.iwdj.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704894560046-t7v6qb2pugt0h1ii8oq0rep4o5rolf7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iwdj.app",
+            "certificate_hash": "b742574026aa909dad961cb82eb3cc39c688e141"
+          }
+        },
+        {
+          "client_id": "704894560046-tm6socgl1mvr31dmgg7bjmsg2hj3v4vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tXopknpEW6xsSZ-tEwdxJJ69P4yyuCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704894560046-tm6socgl1mvr31dmgg7bjmsg2hj3v4vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

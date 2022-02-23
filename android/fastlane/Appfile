@@ -1,0 +1,2 @@
+json_key_file("C:/\#IW/\#IW/json-google-iw/pc-api-5907859389140947611-31-f2fb35cdfcd3.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.iwdj.app") # e.g. com.krausefx.app
