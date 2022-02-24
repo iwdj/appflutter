@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "SHRUNK_PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.iwdj.app",
+  "variantName": "processReleaseResources",
+  "elements": [
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86_64"
+        }
+      ],
+      "versionCode": 8000,
+      "versionName": "2.10.0",
+      "outputFile": "resources-x86_64-release-stripped.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "versionCode": 5000,
+      "versionName": "2.10.0",
+      "outputFile": "resources-armeabi-v7a-release-stripped.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
+      "versionCode": 6000,
+      "versionName": "2.10.0",
+      "outputFile": "resources-arm64-v8a-release-stripped.ap_"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+com/example/devicelocale/DevicelocalePlugin.java
+ com.example.devicelocale.DevicelocalePlugin
+com/example/devicelocale/BuildConfig.java
+ com.example.devicelocale.BuildConfig

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\fluxstore-2.8.1\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Home\\.gradle\\caches\\transforms-2\\files-2.1\\99d1477ee897ca64252231d542c87155\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\fluxstore-2.8.1\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Home\\.gradle\\caches\\transforms-2\\files-2.1\\99d1477ee897ca64252231d542c87155\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\fluxstore-2.8.1\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Home\\.gradle\\caches\\transforms-2\\files-2.1\\99d1477ee897ca64252231d542c87155\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    }
+]

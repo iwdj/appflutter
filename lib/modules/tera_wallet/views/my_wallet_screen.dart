@@ -208,7 +208,7 @@ class _MyWalletScreenState extends State<MyWalletScreen> {
               ),
               Expanded(
                 child: Text(
-                  'TeraWallet',
+                  'IWDJ',
                   textAlign: TextAlign.end,
                   style: Theme.of(context).primaryTextTheme.headline5!.copyWith(
                       color: Colors.white, fontWeight: FontWeight.bold),

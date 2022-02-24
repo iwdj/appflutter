@@ -1,0 +1,2 @@
+com/github/simonpham/gms_check/BuildConfig.java
+ com.github.simonpham.gms_check.BuildConfig

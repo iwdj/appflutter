@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">704894560046-tm6socgl1mvr31dmgg7bjmsg2hj3v4vq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://iwdesignjobs-es-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">704894560046</string>
+    <string name="google_api_key" translatable="false">AIzaSyA6tXopknpEW6xsSZ-tEwdxJJ69P4yyuCg</string>
+    <string name="google_app_id" translatable="false">1:704894560046:android:383d91602aa915dfb43cbf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA6tXopknpEW6xsSZ-tEwdxJJ69P4yyuCg</string>
+    <string name="google_storage_bucket" translatable="false">iwdesignjobs-es.appspot.com</string>
+    <string name="project_id" translatable="false">iwdesignjobs-es</string>
+</resources>

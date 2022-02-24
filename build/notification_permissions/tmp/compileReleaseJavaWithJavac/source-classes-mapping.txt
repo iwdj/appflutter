@@ -1,0 +1,6 @@
+com/vanethos/notification_permissions/NotificationPermissionsPlugin.java
+ com.vanethos.notification_permissions.NotificationPermissionsPlugin
+com/vanethos/notification_permissions/BuildConfig.java
+ com.vanethos.notification_permissions.BuildConfig
+com/vanethos/notification_permissions/MethodCallHandlerImpl.java
+ com.vanethos.notification_permissions.MethodCallHandlerImpl

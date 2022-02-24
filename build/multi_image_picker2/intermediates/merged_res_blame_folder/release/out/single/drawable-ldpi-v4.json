@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\fluxstore-2.8.1\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_add_a_photo_white_24dp.png",
+        "source": "C:\\Users\\Home\\.gradle\\caches\\transforms-2\\files-2.1\\bace1e22137f3bbbe4552fb09fc4cecd\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_add_a_photo_white_24dp.png"
+    },
+    {
+        "merged": "C:\\fluxstore-2.8.1\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_photo_white_24dp.png",
+        "source": "C:\\Users\\Home\\.gradle\\caches\\transforms-2\\files-2.1\\bace1e22137f3bbbe4552fb09fc4cecd\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_photo_white_24dp.png"
+    },
+    {
+        "merged": "C:\\fluxstore-2.8.1\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_arrow_back_white_24dp.png",
+        "source": "C:\\Users\\Home\\.gradle\\caches\\transforms-2\\files-2.1\\bace1e22137f3bbbe4552fb09fc4cecd\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "C:\\fluxstore-2.8.1\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_done_white_24dp.png",
+        "source": "C:\\Users\\Home\\.gradle\\caches\\transforms-2\\files-2.1\\bace1e22137f3bbbe4552fb09fc4cecd\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "C:\\fluxstore-2.8.1\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_add_a_photo_gray_100dp.png",
+        "source": "C:\\Users\\Home\\.gradle\\caches\\transforms-2\\files-2.1\\bace1e22137f3bbbe4552fb09fc4cecd\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_add_a_photo_gray_100dp.png"
+    },
+    {
+        "merged": "C:\\fluxstore-2.8.1\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_done_all_white_24dp.png",
+        "source": "C:\\Users\\Home\\.gradle\\caches\\transforms-2\\files-2.1\\bace1e22137f3bbbe4552fb09fc4cecd\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_done_all_white_24dp.png"
+    },
+    {
+        "merged": "C:\\fluxstore-2.8.1\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_photo_library_gray_100dp.png",
+        "source": "C:\\Users\\Home\\.gradle\\caches\\transforms-2\\files-2.1\\bace1e22137f3bbbe4552fb09fc4cecd\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_photo_library_gray_100dp.png"
+    }
+]
